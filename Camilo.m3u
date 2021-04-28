@@ -7,7 +7,17 @@ http://saypopular.com:25461/oscar/20gar/52853
 #EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://www.m3u.cl/logo/50_Locomotion.png", Locomotion  | AR
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN2 SUR" tvg-logo="https://3.bp.blogspot.com/-Kr1cFHbE2dI/XAG8LsZyzyI/AAAAAAAAAdE/MMZTEWYBlNcy0Id3lbd0JiavV_ACpPvkACLcBGAs/s1600/espnhd.png", ESPN 2 SUR
+#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN SUR" tvg-logo="https://3.bp.blogspot.com/-Kr1cFHbE2dI/XAG8LsZyzyI/AAAAAAAAAdE/MMZTEWYBlNcy0Id3lbd0JiavV_ACpPvkACLcBGAs/s1600/espnhd.png", ESPN 2 SUR
 
 
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN2 SUR" tvg-logo="https://1.bp.blogspot.com/-1rd3VyRslIg/XAG8FoEGmqI/AAAAAAAAAc0/aRQbMjR2h68fY_O1Cc-Qdd3g--v_TPESgCLcBGAs/s1600/espn2hd.png", ESPN 2 SUR
 
+
+#EXTINF:-1 tvg-id="EPSN 3" tvg-name="ESPN 3 SUR" tvg-logo="https://3.bp.blogspot.com/-9YiMxmzQpkM/XAG8Gn7L1gI/AAAAAAAAAc8/9BJ2mN9uZ8MmrvmhSf_jaMLduLZ4jRHzgCLcBGAs/s1600/espn3hd.png", ESPN 3 SUR
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://2.bp.blogspot.com/-I8Yskga4U9U/XAG7wxt4rQI/AAAAAAAAAcQ/tlcQ2F7ZIwANZsHhGPUFG3at48iMrInpwCLcBGAs/s1600/foxsportshd.png", FOX SPORTS
+#EXTINF:-1 tvg-id="FOX SPORTS2" tvg-name="FOX SPORTS2" tvg-logo="https://4.bp.blogspot.com/-VGjW9ulYOKI/XAG7zevmgSI/AAAAAAAAAcU/z5yLuRFrFgo68OFY9axd-wM--4Gh42zKgCLcBGAs/s1600/foxsports2hd.png", FOX SPORTS2
+#EXTINF:-1 tvg-id="FOX SPORTS3" tvg-name="FOX SPORTS3" tvg-logo="https://2.bp.blogspot.com/-vD3lTHbK4b0/XAG72CpOsWI/AAAAAAAAAcc/F4vJ0TW9rjgPzrKuv0_JxwB1JZXfBy5UACLcBGAs/s1600/foxsports3hd.png", FOX SPORTS3
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://1.bp.blogspot.com/-Q9joQ6g50yQ/XAGm1Q9nrwI/AAAAAAAAAZo/XDiwPg8kYC4vLwiNbpzPdgCHplcpQNfdwCLcBGAs/s1600/spacehd.png", SPACE
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://1.bp.blogspot.com/-NvcO2koqcWY/XAGmQq8EhMI/AAAAAAAAAZc/CIthS4s-qZIZG4nmyXolobC6SgFUr6ezgCLcBGAs/s1600/cinemaxhd.png", CINEMAX
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://2.bp.blogspot.com/-m6xdkDHfu0Q/XAGlqwgK9CI/AAAAAAAAAZU/mZ7TslUa82cVsAQEUj2D9cHeZyn7-lnOgCEwYBhgL/s1600/tnthd.png", TNT
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://1.bp.blogspot.com/-6xdF7MSZ69w/XAG7RPw6OWI/AAAAAAAAAbw/QqGfHfFe158ov9bmKJ6gnDhIhhGJnodNwCLcBGAs/s1600/cartoonnetworkhd.png", CARTOON NETWORK
