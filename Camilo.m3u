@@ -8,10 +8,10 @@ http://saypopular.com:25461/oscar/20gar/52853
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN SUR" tvg-logo="https://3.bp.blogspot.com/-Kr1cFHbE2dI/XAG8LsZyzyI/AAAAAAAAAdE/MMZTEWYBlNcy0Id3lbd0JiavV_ACpPvkACLcBGAs/s1600/espnhd.png", ESPN 2 SUR
-
+http://e10.cdnfoxtv.me/ingestnb4s/espn_sur/master.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN2 SUR" tvg-logo="https://1.bp.blogspot.com/-1rd3VyRslIg/XAG8FoEGmqI/AAAAAAAAAc0/aRQbMjR2h68fY_O1Cc-Qdd3g--v_TPESgCLcBGAs/s1600/espn2hd.png", ESPN 2 SUR
-
+http://e10.cdnfoxtv.me/ingestnb4s/espn2_sur/f.m3u8
 
 #EXTINF:-1 tvg-id="EPSN 3" tvg-name="ESPN 3 SUR" tvg-logo="https://3.bp.blogspot.com/-9YiMxmzQpkM/XAG8Gn7L1gI/AAAAAAAAAc8/9BJ2mN9uZ8MmrvmhSf_jaMLduLZ4jRHzgCLcBGAs/s1600/espn3hd.png", ESPN 3 SUR
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://2.bp.blogspot.com/-I8Yskga4U9U/XAG7wxt4rQI/AAAAAAAAAcQ/tlcQ2F7ZIwANZsHhGPUFG3at48iMrInpwCLcBGAs/s1600/foxsportshd.png", FOX SPORTS
