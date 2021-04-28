@@ -1,0 +1,10 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports+" tvg-country="CO" tvg-language="" tvg-logo="" tvg-url="" group-title="Sport",Win Sports+
+http://saypopular.com:25461/oscar/20gar/52853
+
+#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://www.m3u.cl/logo/50_Locomotion.png", Locomotion  | AR
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
+
+
