@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="WIN SPORTS" tvg-name="WIN SPORTS" tvg-logo="https://i.pinimg.com/originals/89/a2/eb/89a2ebe0c0a50d42c0a4447f4fd98096.png", WIN SPORTS
+https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/8_.m3u8?token=zZCY3fTZ_UjezZlN03zliQ&expires=1619739416
+
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports+" tvg-country="CO" tvg-language="" tvg-logo="" tvg-url="" group-title="Sport",Win Sports+
 http://saypopular.com:25461/oscar/20gar/52853
 
@@ -14,18 +17,37 @@ https://ep95juyqjpyk764.ezcdn462.net:8443/hls/yzfwp0ngkv.m3u8?s=iJ-JCUHP7ZN0X5ng
 https://ep95juyqjpyk764.ezcdn462.net:8443/hls/xqnp3kvij9pvoub.m3u8?s=zns2h2z3oXFeYA3Kkktg-Q&e=1619750734
 
 #EXTINF:-1 tvg-id="EPSN 3" tvg-name="ESPN 3 SUR" tvg-logo="https://3.bp.blogspot.com/-9YiMxmzQpkM/XAG8Gn7L1gI/AAAAAAAAAc8/9BJ2mN9uZ8MmrvmhSf_jaMLduLZ4jRHzgCLcBGAs/s1600/espn3hd.png", ESPN 3 SUR
+https://live.tvplusgratis.com/hls/ts18e8mxa3xmnll/5_.m3u8?token=ER32-FhxFbfX9OmtBJe-Gg&expires=1619739376
+
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://2.bp.blogspot.com/-I8Yskga4U9U/XAG7wxt4rQI/AAAAAAAAAcQ/tlcQ2F7ZIwANZsHhGPUFG3at48iMrInpwCLcBGAs/s1600/foxsportshd.png", FOX SPORTS
+https://ep95juyqjpyk764.ezcdn462.net:8443/hls/kx8ric6rf.m3u8?s=wkrUXfuykSDd77ygKtnRgg&e=1619752456
+
 #EXTINF:-1 tvg-id="FOX SPORTS2" tvg-name="FOX SPORTS2" tvg-logo="https://4.bp.blogspot.com/-VGjW9ulYOKI/XAG7zevmgSI/AAAAAAAAAcU/z5yLuRFrFgo68OFY9axd-wM--4Gh42zKgCLcBGAs/s1600/foxsports2hd.png", FOX SPORTS2
+https://ep95juyqjpyk764.ezcdn462.net:8443/hls/70ublqdqhun705w.m3u8?s=9W8J_SZqDE55AZQLSyg4xA&e=1619752595
+
 #EXTINF:-1 tvg-id="FOX SPORTS3" tvg-name="FOX SPORTS3" tvg-logo="https://2.bp.blogspot.com/-vD3lTHbK4b0/XAG72CpOsWI/AAAAAAAAAcc/F4vJ0TW9rjgPzrKuv0_JxwB1JZXfBy5UACLcBGAs/s1600/foxsports3hd.png", FOX SPORTS3
+https://ep95juyqjpyk764.ezcdn462.net:8443/hls/30h9tv6w0gwaq.m3u8?s=aXAGZGRBsuDbb0ExxdGr1Q&e=1619752681
+
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://1.bp.blogspot.com/-Q9joQ6g50yQ/XAGm1Q9nrwI/AAAAAAAAAZo/XDiwPg8kYC4vLwiNbpzPdgCHplcpQNfdwCLcBGAs/s1600/spacehd.png", SPACE
+https://ep95juyqjpyk764.ezcdn462.net:8443/hls/me4gtt8v3fmket.m3u8?s=QpHEX8IZ13Kfie2QaNXiSg&e=1619751326
+
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://1.bp.blogspot.com/-NvcO2koqcWY/XAGmQq8EhMI/AAAAAAAAAZc/CIthS4s-qZIZG4nmyXolobC6SgFUr6ezgCLcBGAs/s1600/cinemaxhd.png", CINEMAX
+https://ep95juyqjpyk764.ezcdn462.net:8443/hls/ztv7sh.m3u8?s=z2iuY5_DrwUfZk4IMBurXg&e=1619752263
+
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://2.bp.blogspot.com/-m6xdkDHfu0Q/XAGlqwgK9CI/AAAAAAAAAZU/mZ7TslUa82cVsAQEUj2D9cHeZyn7-lnOgCEwYBhgL/s1600/tnthd.png", TNT
+https://ep95juyqjpyk764.ezcdn462.net:8443/hls/glaldsq.m3u8?s=1MI1XPXck9XESinnO8C7KA&e=1619752352
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://3.bp.blogspot.com/-U9IgvbKOU5Q/XAGpDRJcWOI/AAAAAAAAAbM/qtgLUYG4IJgbBq2k8oa-WLEv3YLq_vOYQCLcBGAs/s1600/hbohd.png", HBO
+https://ep95juyqjpyk764.ezcdn462.net:8443/hls/lbqtn3.m3u8?s=4pNeieGgtYmCMVoUyoJfqA&e=1619752813
+
+#EXTINF:-1 tvg-id="GOLDEN" tvg-name="GOLDEN EDGE" tvg-logo="https://3.bp.blogspot.com/-IRYOVCN24Zg/XAGnE3hvIyI/AAAAAAAAAZ4/AQTXL8QKiCEMMvxggJO5pU7L-luFAD8zACLcBGAs/s1600/goldenesgehd.png", GOLDEN EDGE
+https://ep95juyqjpyk764.ezcdn462.net:8443/hls/aef8t7z.m3u8?s=y93HpBoEz7mN6kKA8pz_WQ&e=1619753105
+
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://i.blogs.es/f4fa98/star-channel-llega-a-mexico/840_560.jpg", STAR CHANNEL
+https://ep95juyqjpyk764.ezcdn462.net:8443/hls/4612rwe.m3u8?s=d1vzhty_gyWjFS8v6zhBDw&e=1619753225
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://1.bp.blogspot.com/-6xdF7MSZ69w/XAG7RPw6OWI/AAAAAAAAAbw/QqGfHfFe158ov9bmKJ6gnDhIhhGJnodNwCLcBGAs/s1600/cartoonnetworkhd.png", CARTOON NETWORK
 https://ep95juyqjpyk764.ezcdn462.net:8443/hls/1feji.m3u8?s=D1Eikryod1AIyOoob1W6Vw&e=1619749947
-
-#EXTINF:-1 tvg-id="Los Simpsons" tvg-name="https://static.iris.net.co/semana/upload/images/2016/2/10/460091_1.jpg" tvg-logo="", Los Simpsons
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", 
