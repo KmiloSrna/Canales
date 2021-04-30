@@ -49,6 +49,9 @@ https://ep95juyqjpyk764.ezcdn462.net:8443/hls/aef8t7z.m3u8?s=y93HpBoEz7mN6kKA8pz
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://i.blogs.es/f4fa98/star-channel-llega-a-mexico/840_560.jpg", STAR CHANNEL
 https://ep95juyqjpyk764.ezcdn462.net:8443/hls/4612rwe.m3u8?s=d1vzhty_gyWjFS8v6zhBDw&e=1619753225
 
+#EXTINF:-1 tvg-id="STAR CHANNEL HITS" tvg-name="STAR CHANNEL HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1200px-Star_Hits_2020.svg.png", STAR CHANNEL HITS
+https://ep95juyqjpyk764.ezcdn462.net:8443/hls/4dtc368405sw4mo.m3u8?s=d0bTMyLkKsAilgjr9Wo98A&e=1619771891
+
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://1.bp.blogspot.com/-6xdF7MSZ69w/XAG7RPw6OWI/AAAAAAAAAbw/QqGfHfFe158ov9bmKJ6gnDhIhhGJnodNwCLcBGAs/s1600/cartoonnetworkhd.png", CARTOON NETWORK
 https://ep95juyqjpyk764.ezcdn462.net:8443/hls/1feji.m3u8?s=D1Eikryod1AIyOoob1W6Vw&e=1619749947
 
@@ -65,7 +68,7 @@ https://syndication.exoclick.com/splash.php?native-settings=1&idzone=3113334&p=h
 https://syndication.exoclick.com/splash.php?native-settings=1&idzone=3113334&p=http%3A%2F%2Fwww.tv-gratis.biz%2Fver-canales-tv-online-como%2Fprivate-gol-en-vivo-por-internet.html
 
 #EXTINF:-1 tvg-id="DirecTV Sports" tvg-name="DirecTV Sports" tvg-logo="https://www.directv.com.co/content/dam/public-sites/cl/directv-logo/dtv-logo-blue.svg", DirecTV Sports
-https://e1.cdnfoxtv.com/ingest013/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=SN4cCIuxudHNxsyHoXUi8Q&expires=1619763463&rnd=
+https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/18_.m3u8?token=4b71P_9zZxZHN7AoR14uHA&expires=1619757209
 
 #EXTINF:-1 tvg-id="Telemedellín" tvg-name="Telemedellín" tvg-logo="https://telemedellin.tv/wp-content/themes/telemedellin/img/logo_tm_130320.png", Telemedellín
 https://liveingesta118.cdnmedia.tv/telemedellintvlive/smil:live.smil/chunklist_b900000.m3u8
