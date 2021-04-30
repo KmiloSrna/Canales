@@ -64,6 +64,7 @@ https://syndication.exoclick.com/splash.php?native-settings=1&idzone=3113334&p=h
 #EXTINF:-1 tvg-id="PLAYBOY" tvg-name="PLAYBOY" tvg-logo="https://2.bp.blogspot.com/-OPMCh7pjqGQ/XAG9-KfML6I/AAAAAAAAAe8/cSVG9YWqNp4SzU5m1mkVQ_n-M34BRIqrwCLcBGAs/s1600/playboyhd.png", PLAYBOY
 https://syndication.exoclick.com/splash.php?native-settings=1&idzone=3113334&p=http%3A%2F%2Fwww.tv-gratis.biz%2Fver-canales-tv-online-como%2Fprivate-gol-en-vivo-por-internet.html
 
+#EXTINF:-1 tvg-id="DirecTV Sports" tvg-name="DirecTV Sports" tvg-logo="https://www.directv.com.co/content/dam/public-sites/cl/directv-logo/dtv-logo-blue.svg", DirecTV Sports
+https://e1.cdnfoxtv.com/ingest013/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=SN4cCIuxudHNxsyHoXUi8Q&expires=1619763463&rnd=
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", 
-
-
