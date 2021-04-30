@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-id="Televid" tvg-name="Televid" tvg-logo="https://televidplay.tv/wp-content/uploads/2019/10/Logo-TeleVID.png", Televid
-https://playback2.akamaized.net/streams/28238881_8574038_lsi92prwl82x5kbxb0a_1/exp=1619829026~acl=%2f*~data=hdntl~hmac=d558994ea046bfe59178f7ecb2ae9234b22f879019424340d116ef6b90d59727/media/28238881_8574038_lsi92prwl82x5kbxb0a_1@2320000p.m3u8?dw=14400&ts=1619740800
+https://playback2.akamaized.net/streams/28238881_8574038_lsi92prwl82x5kbxb0a_1/exp=1619829395~acl=%2f*~data=hdntl~hmac=dc7691d7f1bea39dfa79929cdb50b164a2443f4539523190647836587240692d/media/28238881_8574038_lsi92prwl82x5kbxb0a_1@2320000p.m3u8?dw=14400&ts=1619740800
 
 #EXTINF:-1 tvg-id="Teleantioquia" tvg-name="Teleantioquia" tvg-logo="https://www.teleantioquia.co/wp-content/themes/teleantioquia/public/images/logo-teleantioquia-color.webp", Teleantioquia
 https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
