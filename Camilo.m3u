@@ -1,11 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="Televid" tvg-name="Televid" tvg-logo="https://televidplay.tv/wp-content/uploads/2019/10/Logo-TeleVID.png", Televid
-https://playback2.akamaized.net/streams/28238881_8574038_lsi92prwl82x5kbxb0a_1/exp=1619829395~acl=%2f*~data=hdntl~hmac=dc7691d7f1bea39dfa79929cdb50b164a2443f4539523190647836587240692d/media/28238881_8574038_lsi92prwl82x5kbxb0a_1@2320000p.m3u8?dw=14400&ts=1619740800
-
 #EXTINF:-1 tvg-id="Teleantioquia" tvg-name="Teleantioquia" tvg-logo="https://www.teleantioquia.co/wp-content/themes/teleantioquia/public/images/logo-teleantioquia-color.webp", Teleantioquia
-https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
+https://hdvideo2.cdn.net.co/live01/ta_240p.m3u8
 
 #EXTINF:-1 tvg-id="WIN SPORTS" tvg-name="WIN SPORTS" tvg-logo="https://i.pinimg.com/originals/89/a2/eb/89a2ebe0c0a50d42c0a4447f4fd98096.png", WIN SPORTS
 https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/8_.m3u8?token=zZCY3fTZ_UjezZlN03zliQ&expires=1619739416
