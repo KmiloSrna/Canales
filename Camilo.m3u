@@ -1,6 +1,12 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="Televid" tvg-name="Televid" tvg-logo="https://televidplay.tv/wp-content/uploads/2019/10/Logo-TeleVID.png", Televid
+https://playback2.akamaized.net/streams/28238881_8574038_lsi92prwl82x5kbxb0a_1/exp=1619829026~acl=%2f*~data=hdntl~hmac=d558994ea046bfe59178f7ecb2ae9234b22f879019424340d116ef6b90d59727/media/28238881_8574038_lsi92prwl82x5kbxb0a_1@2320000p.m3u8?dw=14400&ts=1619740800
+
+#EXTINF:-1 tvg-id="Teleantioquia" tvg-name="Teleantioquia" tvg-logo="https://www.teleantioquia.co/wp-content/themes/teleantioquia/public/images/logo-teleantioquia-color.webp", Teleantioquia
+https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
+
 #EXTINF:-1 tvg-id="WIN SPORTS" tvg-name="WIN SPORTS" tvg-logo="https://i.pinimg.com/originals/89/a2/eb/89a2ebe0c0a50d42c0a4447f4fd98096.png", WIN SPORTS
 https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/8_.m3u8?token=zZCY3fTZ_UjezZlN03zliQ&expires=1619739416
 
@@ -57,9 +63,6 @@ https://syndication.exoclick.com/splash.php?native-settings=1&idzone=3113334&p=h
 
 #EXTINF:-1 tvg-id="PLAYBOY" tvg-name="PLAYBOY" tvg-logo="https://2.bp.blogspot.com/-OPMCh7pjqGQ/XAG9-KfML6I/AAAAAAAAAe8/cSVG9YWqNp4SzU5m1mkVQ_n-M34BRIqrwCLcBGAs/s1600/playboyhd.png", PLAYBOY
 https://syndication.exoclick.com/splash.php?native-settings=1&idzone=3113334&p=http%3A%2F%2Fwww.tv-gratis.biz%2Fver-canales-tv-online-como%2Fprivate-gol-en-vivo-por-internet.html
-
-#EXTINF:-1 tvg-id="Teleantioquia" tvg-name="Teleantioquia" tvg-logo="https://www.teleantioquia.co/wp-content/themes/teleantioquia/public/images/logo-teleantioquia-color.webp", Teleantioquia
-https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="", 
 
