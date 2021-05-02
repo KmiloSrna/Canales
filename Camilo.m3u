@@ -20,10 +20,10 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
 https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/18_.m3u8?token=4b71P_9zZxZHN7AoR14uHA&expires=1619757209
 
 #EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN SUR" tvg-logo="https://3.bp.blogspot.com/-Kr1cFHbE2dI/XAG8LsZyzyI/AAAAAAAAAdE/MMZTEWYBlNcy0Id3lbd0JiavV_ACpPvkACLcBGAs/s1600/espnhd.png", ESPN SUR
-https://e10.espncdn.live/ingestnb4s/espn_sur/d.m3u8
+https://e5.cdnfoxtv.com/ingest02/74684.m3u8?sf=NjRPZ01EbWhuYg==&token=YCYvFVD3463CStLqQAf8hQ&expires=1619983938&rnd=
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN2 SUR" tvg-logo="https://1.bp.blogspot.com/-1rd3VyRslIg/XAG8FoEGmqI/AAAAAAAAAc0/aRQbMjR2h68fY_O1Cc-Qdd3g--v_TPESgCLcBGAs/s1600/espn2hd.png", ESPN 2 SUR
-https://ep95juyqjpyk764.ezcdn462.net:8443/hls/xqnp3kvij9pvoub.m3u8?s=zns2h2z3oXFeYA3Kkktg-Q&e=1619750734
+https://e5.cdnfoxtv.com/ingest02/74682.m3u8?sf=bkQzT1pWYVdkbg==&token=nOTDA4UmQzlAVSY4oVSx2g&expires=1619984041&rnd=
 
 #EXTINF:-1 tvg-id="EPSN 3" tvg-name="ESPN 3 SUR" tvg-logo="https://3.bp.blogspot.com/-9YiMxmzQpkM/XAG8Gn7L1gI/AAAAAAAAAc8/9BJ2mN9uZ8MmrvmhSf_jaMLduLZ4jRHzgCLcBGAs/s1600/espn3hd.png", ESPN 3 SUR
 https://live.tvplusgratis.com/hls/ts18e8mxa3xmnll/5_.m3u8?token=ER32-FhxFbfX9OmtBJe-Gg&expires=1619739376
